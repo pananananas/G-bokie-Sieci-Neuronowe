@@ -1,24 +1,26 @@
 /dane laboratoriun
 
-/lab4/data
-/lab4/lab4_logs
+/4 MLP/data
+/4 MLP/lab4_logs
 
-/lab5/cifar_root
+/5 CNN/cifar_root
 
-/lab7/cifar_root
-/lab7/imgs
-/lab7/out
-/lab8/root
+/7 CNN + Transfer Learning Style Transfer/cifar_root
+/7 CNN + Transfer Learning Style Transfer/imgs
+/7 CNN + Transfer Learning Style Transfer/out
+/7 CNN + Transfer Learning Style Transfer/root
 
-/lab9/stl10_binary
-/lab9/stl10_binary.tar.gz
+/8 Image Segmentation/root
 
-/lab10/fastText
-/lab10/predictions2
-/lab10/fasttext_tweetmodel_btc_sg_20_en.vec
-/lab10/test_emo.txt
-/lab10/test_labels_emo.txt
-/lab10/train_emo.txt
-/lab10/train_labels_emo.txt
-/lab10/val_emo.txt
-/lab10/val_labels_emo.txt
+/9 Unsupervised Learning/stl10_binary
+/9 Unsupervised Learning/stl10_binary.tar.gz
+
+/10/fastText
+/10/predictions2
+/10/fasttext_tweetmodel_btc_sg_20_en.vec
+/10/test_emo.txt
+/10/test_labels_emo.txt
+/10/train_emo.txt
+/10/train_labels_emo.txt
+/10/val_emo.txt
+/10/val_labels_emo.txt
