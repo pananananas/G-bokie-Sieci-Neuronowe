@@ -1,0 +1,24 @@
+/dane laboratoriun
+
+/lab4/data
+/lab4/lab4_logs
+
+/lab5/cifar_root
+
+/lab7/cifar_root
+/lab7/imgs
+/lab7/out
+/lab8/root
+
+/lab9/stl10_binary
+/lab9/stl10_binary.tar.gz
+
+/lab10/fastText
+/lab10/predictions2
+/lab10/fasttext_tweetmodel_btc_sg_20_en.vec
+/lab10/test_emo.txt
+/lab10/test_labels_emo.txt
+/lab10/train_emo.txt
+/lab10/train_labels_emo.txt
+/lab10/val_emo.txt
+/lab10/val_labels_emo.txt
