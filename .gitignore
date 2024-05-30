@@ -1,6 +1,6 @@
 .DS_Store
 
-/dane laboratoriun
+/data
 
 /4 MLP/data
 /4 MLP/lab4_logs
@@ -17,12 +17,7 @@
 /9 Unsupervised Learning/stl10_binary
 /9 Unsupervised Learning/stl10_binary.tar.gz
 
-/10/fastText
-/10/predictions2
+/10/data
+/10/models
+/10/outs
 /10/fasttext_tweetmodel_btc_sg_20_en.vec
-/10/test_emo.txt
-/10/test_labels_emo.txt
-/10/train_emo.txt
-/10/train_labels_emo.txt
-/10/val_emo.txt
-/10/val_labels_emo.txt
