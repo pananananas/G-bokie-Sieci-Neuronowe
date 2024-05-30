@@ -1,1 +1,1 @@
-# G-bokie-Sieci-Neuronowe
+# Lab z GSN - Głębokie Sieci Neuronowe
