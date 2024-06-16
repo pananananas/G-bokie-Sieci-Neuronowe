@@ -17,7 +17,8 @@
 /9 Unsupervised Learning/stl10_binary
 /9 Unsupervised Learning/stl10_binary.tar.gz
 
-/10/data
-/10/models
-/10/outs
-/10/fasttext_tweetmodel_btc_sg_20_en.vec
+/10 LSTM Sentiment/data
+/10 LSTM Sentiment/models
+/10 LSTM Sentiment/outs
+/10 LSTM Sentiment/fasttext_tweetmodel_btc_sg_20_en.vec
+/10 LSTM Sentiment/fastText
