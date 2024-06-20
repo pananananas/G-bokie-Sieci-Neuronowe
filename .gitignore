@@ -22,3 +22,6 @@
 /10 LSTM Sentiment/outs
 /10 LSTM Sentiment/fasttext_tweetmodel_btc_sg_20_en.vec
 /10 LSTM Sentiment/fastText
+
+/13 DLR Reinforcement Learning/experiments
+/13 DLR Reinforcement Learning/dqn_breakout.zip
